@@ -1,5 +1,11 @@
 # AngWsstream
 
+Käynnistä ws-serveri https://github.com/EkaterinaGogoleva/ang-wsstream-server.git
+, reffaa tämä sivu ja tähän ilmaantuu
+kaksi reaaliaikaista datastreamia serveriltä. Ensimmäinen
+on merkkijono joka on tilattu subscribella. Toinen on observable
+joka tilataan vasta templaatissa async -pipen avulla.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
 ## Development server
